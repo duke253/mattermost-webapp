@@ -2930,7 +2930,7 @@
   "login.email": "Электронная почта",
   "login.forgot": "Я забыл свой пароль.",
   "login.get_terms_error": "Не могу загрузить условия использования. Если ошибка не исчезнет, обратитесь к своему системному администратору.",
-  "login.gitlab": "GitLab",
+  "login.gitlab": "Войти",
   "login.google": "Google Apps",
   "login.invalidPassword": "Неверный пароль.",
   "login.ldapCreate": " Введите имя пользователя и пароль AD/LDAP для создания учетной записи.",

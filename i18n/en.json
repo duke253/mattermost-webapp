@@ -2996,7 +2996,7 @@
   "login.email": "Email",
   "login.forgot": "I forgot my password.",
   "login.get_terms_error": "Unable to load terms of service. If this issue persists, contact your System Administrator.",
-  "login.gitlab": "GitLab",
+  "login.gitlab": "Войти",
   "login.google": "Google Apps",
   "login.invalidPassword": "Your password is incorrect.",
   "login.ldapCreate": " Enter your AD/LDAP username and password to create an account.",
